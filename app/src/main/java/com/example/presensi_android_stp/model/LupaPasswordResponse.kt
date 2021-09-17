@@ -1,0 +1,10 @@
+package com.example.presensi_android_stp.model
+
+import com.google.gson.annotations.SerializedName
+
+data class LupaPasswordResponse(
+
+	@field:SerializedName("message")
+	val message: String? = null,
+	val email: String
+)

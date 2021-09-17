@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Presensi STP</string>
+    <string name="masukan_akun">Masukan Akun</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="riwayat">Riwayat Presensi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lokasi_sekarang">Lokasi Sekarang</string>
+    <string name="default_text">-</string>
+    <string name="foto_pegawai">Foto Pegawai</string>
+    <string name="masuk">Masuk</string>
+    <string name="pulang">Pulang</string>
+    <string name="profile">Profile</string>
+    <string name="ubah_password">Ubah Password</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+    <string name="logout">Logout</string>
+    <string name="password_lama">Password Sebelumnya</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="konfirmasi_password_baru">Konfirmasi Password Baru</string>
+    <string name="presensi">Presensi</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="masukan_email_yang_benar">Masukan Email yang Benar</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="gagal">Gagal</string>
+    <string name="berhasil">Berhasil</string>
+    <string name="pt_sugih_teknik_perkasa">PT.Sugih Teknik Perkasa</string>
+
+    <string name="tidak_diizinkan">Tidak di Izinkan</string>
+    <string name="required_permission">Diperlukan Izin</string>
+    <string name="mencari_lokasi">Mencari Lokasi</string>
+    <string name="gagal_mengambil_gambar">Gagal Mengambil Gambar</string>
+    <string name="peringatan">Peringatan</string>
+    <string name="tolong_ambil_foto">Tolong Ambil Foto</string>
+    <string name="yakin">Apakah Anda Yakin ?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="absen_berhasil">Absen Behasil</string>
+    <string name="pulang_berhasil">Pulang Behasil</string>
+    <string name="ada_yang_salah">Ada Yang Salah</string>
+    <string name="telah_melakukan_absen">Telah Melakukan Absen</string>
+    <string name="password_berhasil_ubah">Password Berhasil di Ubah</string>
+    <string name="password_tidak_sama">Password Tidak Sama</string>
+</resources>
